@@ -1,6 +1,6 @@
 SUBROUTINE GB.TT.PO.COLL.REF.UPDATE
 *=================================================================================================================================
-* Developed by       : Dhaba (FDS)
+* Developed by       : Nuren (FDS)
 * Description        : Writes PO collection TT id on CHEQUE.REGISTER.SUPPLEMENT
 * RTN Attached in    : APPLICATION: VERSION.CONTROL, ID: TELLER
 * Routine Type       : INPUT routine
